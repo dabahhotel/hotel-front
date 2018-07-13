@@ -1,2 +1,0 @@
-# hotel-front
-hotel front
